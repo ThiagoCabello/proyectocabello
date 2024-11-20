@@ -1,0 +1,67 @@
+[
+    {
+      "id": 1,
+      "name": "Lionel Messi",
+      "team": "Inter Miami",
+      "position": "Delantero",
+      "bio": "Lionel Messi es un futbolista argentino considerado por muchos como el mejor jugador de la historia del fútbol. Ha ganado múltiples Balones de Oro y ha logrado muchos títulos, incluyendo la Copa América con Argentina y la Liga de Campeones de la UEFA con el FC Barcelona.",
+      "image": "/images/messi.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Cristiano Ronaldo",
+      "team": "Al Nassr",
+      "position": "Delantero",
+      "bio": "Cristiano Ronaldo es un futbolista portugués considerado uno de los mejores de la historia. Ha jugado en clubes como el Manchester United, Real Madrid y Juventus, y ha ganado múltiples títulos, incluyendo la Eurocopa con Portugal y la Liga de Campeones de la UEFA.",
+      "image": "/images/ronaldo.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Neymar Jr",
+      "team": "Al Hilal",
+      "position": "Delantero",
+      "bio": "Neymar es un futbolista brasileño conocido por su habilidad con el balón y su estilo de juego espectacular. Ha jugado en el FC Barcelona y el PSG, y ha ganado varios títulos, incluyendo la Copa Libertadores con el Santos y la Champions con el PSG.",
+      "image": "/images/neymar.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Kylian Mbappé",
+      "team": "Real Madrid",
+      "position": "Delantero",
+      "bio": "Kylian Mbappé es un futbolista francés reconocido como uno de los mejores jugadores jóvenes del mundo. Ha ganado la Copa del Mundo con Francia en 2018 y ha sido un pilar en el PSG.",
+      "image": "/images/mbappe.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Kevin De Bruyne",
+      "team": "Manchester City",
+      "position": "Centrocampista",
+      "bio": "Kevin De Bruyne es un centrocampista belga destacado por su visión de juego y su capacidad para crear jugadas. Juega para el Manchester City, donde ha ganado múltiples títulos de la Premier League.",
+      "image": "/images/debruyne.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Robert Lewandowski",
+      "team": "FC Barcelona",
+      "position": "Delantero",
+      "bio": "Robert Lewandowski es un futbolista polaco considerado uno de los mejores delanteros del mundo. Ha ganado múltiples títulos con el Bayern de Múnich y es conocido por su capacidad goleadora.",
+      "image": "/images/lewandowski.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Virgil van Dijk",
+      "team": "Liverpool",
+      "position": "Defensor",
+      "bio": "Virgil van Dijk es un defensor neerlandés reconocido por su liderazgo y habilidades defensivas. Ha ganado la Liga de Campeones de la UEFA con el Liverpool y ha sido finalista del Balón de Oro.",
+      "image": "/images/vandijk.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Erling Haaland",
+      "team": "Manchester City",
+      "position": "Delantero",
+      "bio": "Erling Haaland es un delantero noruego conocido por su físico imponente y capacidad goleadora. Juega en el Manchester City y ha roto varios récords en la Premier League.",
+      "image": "/images/haaland.jpg"
+    }
+  ]
+  
